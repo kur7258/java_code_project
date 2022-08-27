@@ -1,7 +1,7 @@
 package student_information;
 
 /**
- * 학생들의 이름과 학번을 넘겨주면 학생 한 명의 정보가 저장되는 클래스
+ * 학생들의 이름과 학번을 입력하면 한 학생이 생성되는 클래스
  */
 public class Student
 {
