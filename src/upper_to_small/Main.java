@@ -8,7 +8,7 @@ public class Main {
      * 받아온 영문장의 대문자와 소문자를 변환해주는 method
      * @param input 입력받은 영문장
      */
-    static void caseChange(String input) {~
+    static void caseChange(String input) {
         int askiTmp = 0; //aski 코드 임시 저장 변수
         int outputSentence = 0; //출력할 영문장
 
